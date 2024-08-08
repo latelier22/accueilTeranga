@@ -46,7 +46,7 @@ const Header = () => {
           />
           {/* btn */}
          
-            <ScrollLink to='reservation' smooth={true}>
+            <ScrollLink to='contact' smooth={true}>
               <Button variant='orange' size='sm'>
                 Réserver
               </Button>
