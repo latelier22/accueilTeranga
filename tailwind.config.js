@@ -42,7 +42,7 @@ module.exports = {
         hero2: 'url(/hero/bg2.png)',
         menu: 'url(/menu/bg.png)',
         reservation: 'url(/reservation/bg.png)',
-        footer: 'url(/footer/bg.png)',
+        footer: 'url(/footer/bg-bicolor.png)',
       },
       boxShadow: {
         primary: '40px 4px 40px 0px rgba(68, 68, 68, 0.25)',
