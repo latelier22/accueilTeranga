@@ -33,7 +33,7 @@ const Footer = () => {
                 97615 PAMANDZI
                 </li>
                 <li>
-                  Fixe 0269623298 / Mobile 0614387559</li>
+                  Fixe 0269627663 / Mobile 0614387559</li>
 
 
 
